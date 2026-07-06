@@ -1,3 +1,10 @@
+# --------------------------------------------------------
+# Project: [Sumer-AI]
+# Author: [Mohammed Ahmed Abd-Ali]
+# License: GNU General Public License v3.0 (GPLv3)
+# Copyright (C) 2026
+# --------------------------------------------------------
+
 import tkinter as tk
 from tkinter import font
 import threading
