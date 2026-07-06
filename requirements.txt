@@ -1,0 +1,12 @@
+arabic_reshaper==3.0.1
+chromadb==1.5.9
+customtkinter==5.2.2
+docx==0.2.4
+docx2pdf==0.1.8
+matplotlib==3.11.0
+openpyxl==3.1.5
+Pillow==12.3.0
+protobuf==7.35.1
+pypdf==6.14.2
+python_docx==1.2.0
+supabase==2.31.0
