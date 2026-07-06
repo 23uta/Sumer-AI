@@ -1,0 +1,57 @@
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual environment ──
+venv/
+.venv/
+env/
+.env/
+
+# ── API Keys & Secrets ──
+.env
+app_secrets.py
+secrets.py
+
+# ── Database & User Data ──
+chat_history.db
+*.db
+*.sqlite
+*.sqlite3
+
+# ── RAG / ChromaDB ──
+rag_store/
+
+# ── Customization (user-specific) ──
+customization.json
+
+# ── Logs ──
+*.log
+logs/
+
+# ── OS Files ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Build outputs ──
+*.spec
+dist/
+build/
+
+# ── Temp & cache ──
+*.tmp
+*.bak
+.cache/
