@@ -12,6 +12,8 @@
 </div>
 
 ---
+## Contributing & License
+This project is open-source under the GNU General Public License v3.0 (GPLv3). Feel free to use, modify, and distribute it, provided that any derivative works also remain open-source under the same license and credit the original author.
 
 ## ✨ Overview
 
