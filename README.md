@@ -165,6 +165,11 @@ This project is licensed under the **GNU General Public License v3.0**.
 See [LICENSE](LICENSE) for details.
 
 ---
+## Author
+
+* Name: [Mohammed Ahmed Abd-Ali]
+* Github: [@23uta] (https://github.com/23ta)
+* contact me: [mohammed2352004@gmail.com]
 
 <div align="center">
 Built with ❤️ in Iraq &nbsp;|&nbsp; Inspired by the world's first civilization
